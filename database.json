@@ -1,0 +1,309 @@
+{
+  "students": [
+    {
+      "id": 101,
+      "name": "Leo",
+      "performance_summary": "Struggles with abstract concepts, learns best with concrete examples and visual aids. Recent scores are in the 60-70% range."
+    },
+    {
+      "id": 102,
+      "name": "Priya",
+      "performance_summary": "Excels in most subjects and grasps concepts quickly. Often finishes work early and seeks new challenges. Recent scores are above 95%."
+    },
+    {
+      "id": 103,
+      "name": "Sam",
+      "performance_summary": "Solid, average performer. Understands material after one or two repetitions. Recent scores are around 80%."
+    }
+  ],
+  "quiz_results": [
+    {
+      "result_id": 1,
+      "student_id": 101,
+      "student_name": "Leo",
+      "quiz_topic": "The Water Cycle",
+      "score_percent": 0,
+      "total_questions": 5,
+      "timestamp": "2025-07-29T17:06:07.391881"
+    },
+    {
+      "result_id": 2,
+      "student_id": 101,
+      "student_name": "Leo",
+      "quiz_topic": "The Water Cycle",
+      "score_percent": 0,
+      "total_questions": 5,
+      "timestamp": "2025-07-29T17:06:37.417375"
+    },
+    {
+      "result_id": 3,
+      "student_id": 101,
+      "student_name": "Leo",
+      "quiz_topic": "The Water Cycle",
+      "score_percent": 0,
+      "total_questions": 5,
+      "timestamp": "2025-07-29T17:06:42.248263"
+    },
+    {
+      "result_id": 4,
+      "student_id": 101,
+      "student_name": "Leo",
+      "quiz_topic": "The Water Cycle",
+      "score_percent": 0,
+      "total_questions": 5,
+      "timestamp": "2025-07-29T17:06:45.141289"
+    },
+    {
+      "result_id": 5,
+      "student_id": 101,
+      "student_name": "Leo",
+      "quiz_topic": "The Water Cycle",
+      "score_percent": 0,
+      "total_questions": 5,
+      "timestamp": "2025-07-29T17:15:10.018766"
+    },
+    {
+      "result_id": 6,
+      "student_id": 101,
+      "student_name": "Leo",
+      "quiz_topic": "The Water Cycle",
+      "score_percent": 40,
+      "total_questions": 5,
+      "timestamp": "2025-07-29T17:15:46.513184"
+    },
+    {
+      "result_id": 7,
+      "student_id": 101,
+      "student_name": "Leo",
+      "quiz_topic": "The Water Cycle",
+      "score_percent": 0,
+      "total_questions": 5,
+      "timestamp": "2025-07-29T17:41:20.511079"
+    },
+    {
+      "result_id": 8,
+      "student_id": 101,
+      "student_name": "Leo",
+      "quiz_topic": "The Water Cycle",
+      "score_percent": 40,
+      "total_questions": 5,
+      "timestamp": "2025-07-29T17:41:37.811562"
+    },
+    {
+      "result_id": 9,
+      "student_id": 101,
+      "student_name": "Leo",
+      "quiz_topic": "The Water Cycle",
+      "score_percent": 40,
+      "total_questions": 5,
+      "timestamp": "2025-07-29T17:57:39.339324"
+    },
+    {
+      "result_id": 10,
+      "student_id": 101,
+      "student_name": "Leo",
+      "quiz_topic": "The Water Cycle",
+      "score_percent": 40,
+      "total_questions": 5,
+      "timestamp": "2025-07-29T17:58:22.670234"
+    },
+    {
+      "result_id": 11,
+      "student_id": 101,
+      "student_name": "Leo",
+      "quiz_topic": "The Water Cycle",
+      "score_percent": 20,
+      "total_questions": 5,
+      "timestamp": "2025-07-29T17:58:45.117216"
+    },
+    {
+      "result_id": 12,
+      "student_id": 101,
+      "student_name": "Leo",
+      "quiz_topic": "The Water Cycle",
+      "score_percent": 60,
+      "total_questions": 5,
+      "timestamp": "2025-07-29T18:07:23.890473"
+    },
+    {
+      "result_id": 13,
+      "student_id": 101,
+      "student_name": "Leo",
+      "quiz_topic": "The Water Cycle",
+      "score_percent": 60,
+      "total_questions": 5,
+      "timestamp": "2025-07-29T18:55:22.367689"
+    },
+    {
+      "result_id": 14,
+      "student_id": 101,
+      "student_name": "Leo",
+      "quiz_topic": "The Water Cycle",
+      "score_percent": 40,
+      "total_questions": 5,
+      "wrong_answers": [
+        {
+          "question": "During condensation, water vapor cools and changes back into liquid. What is formed during this stage?",
+          "their_answer": "Rivers",
+          "correct_answer": "Clouds"
+        },
+        {
+          "question": "Which of the following is an example of precipitation?",
+          "their_answer": "Water vapor forming clouds",
+          "correct_answer": "Rain falling from the sky"
+        },
+        {
+          "question": "What happens during the 'collection' stage of the water cycle?",
+          "their_answer": "Water forms clouds.",
+          "correct_answer": "Water gathers in bodies of water."
+        }
+      ],
+      "timestamp": "2025-07-29T21:10:50.610811"
+    },
+    {
+      "result_id": 15,
+      "student_id": 101,
+      "student_name": "Leo",
+      "quiz_topic": "The Water Cycle",
+      "score_percent": 40,
+      "total_questions": 5,
+      "wrong_answers": [
+        {
+          "question": "What is the process where liquid water changes into water vapor and rises into the atmosphere?",
+          "their_answer": "Collection",
+          "correct_answer": "Evaporation"
+        },
+        {
+          "question": "During condensation, water vapor cools and changes back into liquid. What is formed during this stage?",
+          "their_answer": "Snow",
+          "correct_answer": "Clouds"
+        },
+        {
+          "question": "Which of the following is an example of precipitation?",
+          "their_answer": "Water vapor forming clouds",
+          "correct_answer": "Rain falling from the sky"
+        }
+      ],
+      "timestamp": "2025-07-29T21:11:05.063771"
+    },
+    {
+      "result_id": 16,
+      "student_id": 101,
+      "student_name": "Leo",
+      "quiz_topic": "The Water Cycle",
+      "score_percent": 60,
+      "total_questions": 5,
+      "wrong_answers": [
+        {
+          "question": "What is the process where liquid water changes into water vapor and rises into the atmosphere?",
+          "their_answer": "Collection",
+          "correct_answer": "Evaporation"
+        },
+        {
+          "question": "What happens during the 'collection' stage of the water cycle?",
+          "their_answer": "Water turns into gas.",
+          "correct_answer": "Water gathers in bodies of water."
+        }
+      ],
+      "timestamp": "2025-07-29T21:11:29.162036"
+    },
+    {
+      "result_id": 17,
+      "student_id": 101,
+      "student_name": "Leo",
+      "quiz_topic": "The Water Cycle",
+      "score_percent": 0,
+      "total_questions": 5,
+      "wrong_answers": [
+        {
+          "question": "What is the process where liquid water changes into water vapor and rises into the atmosphere?",
+          "their_answer": "Collection",
+          "correct_answer": "Evaporation"
+        },
+        {
+          "question": "During condensation, water vapor cools and changes back into liquid. What is formed during this stage?",
+          "their_answer": "Rain",
+          "correct_answer": "Clouds"
+        },
+        {
+          "question": "Which of the following is an example of precipitation?",
+          "their_answer": "Water evaporating from a lake",
+          "correct_answer": "Rain falling from the sky"
+        },
+        {
+          "question": "What happens during the 'collection' stage of the water cycle?",
+          "their_answer": "Water forms clouds.",
+          "correct_answer": "Water gathers in bodies of water."
+        },
+        {
+          "question": "Why is the water cycle important for life on Earth?",
+          "their_answer": "It controls the temperature of the sun.",
+          "correct_answer": "It provides fresh water for plants and animals."
+        }
+      ],
+      "timestamp": "2025-07-29T21:12:47.087032"
+    },
+    {
+      "result_id": 18,
+      "student_id": 101,
+      "student_name": "Leo",
+      "quiz_topic": "The Water Cycle",
+      "score_percent": 40,
+      "total_questions": 5,
+      "wrong_answers": [
+        {
+          "question": "During which stage of the water cycle do clouds form?",
+          "their_answer": "Precipitation",
+          "correct_answer": "Condensation"
+        },
+        {
+          "question": "What happens to water that gathers in rivers, lakes, and oceans?",
+          "their_answer": "It undergoes precipitation",
+          "correct_answer": "It is collected"
+        },
+        {
+          "question": "Why is the water cycle important for life on Earth?",
+          "their_answer": "It provides oxygen for animals",
+          "correct_answer": "It provides water for plants and animals"
+        }
+      ],
+      "timestamp": "2025-07-29T21:18:11.980192"
+    },
+    {
+      "result_id": 19,
+      "student_id": 101,
+      "student_name": "Leo",
+      "quiz_topic": "machine learning",
+      "score_percent": 0,
+      "total_questions": 5,
+      "wrong_answers": [
+        {
+          "question": "What is machine learning, in simple terms?",
+          "their_answer": "Building robots that can do everything humans can.",
+          "correct_answer": "Teaching computers to learn from data without being explicitly programmed."
+        },
+        {
+          "question": "Which of the following is an example of machine learning in action?",
+          "their_answer": "A calculator solving a math problem.",
+          "correct_answer": "A spam filter identifying unwanted emails."
+        },
+        {
+          "question": "In the lesson, what did the students *become* during the 'Picture Sorting' activity?",
+          "their_answer": "Programmers",
+          "correct_answer": "The machine learning algorithm"
+        },
+        {
+          "question": "What is the 'data' in machine learning?",
+          "their_answer": "The code written by programmers.",
+          "correct_answer": "The information the computer uses to learn (like pictures, text, or numbers)."
+        },
+        {
+          "question": "If a 'computer' (like in the picture sorting activity) sees more and more examples, what happens?",
+          "their_answer": "It needs to be reprogrammed.",
+          "correct_answer": "It gets better at recognizing patterns."
+        }
+      ],
+      "timestamp": "2025-07-29T21:25:59.461864"
+    }
+  ]
+}

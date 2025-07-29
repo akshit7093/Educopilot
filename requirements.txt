@@ -1,0 +1,15 @@
+# Core Frameworks
+fastapi
+uvicorn[standard]
+streamlit
+
+# AI & LangChain
+langchain
+langchain-google-genai
+langgraph
+google-generativeai
+
+# Database & Utilities
+supabase>=2.0.0
+python-dotenv
+requests
